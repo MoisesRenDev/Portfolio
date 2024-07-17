@@ -251,8 +251,8 @@ main {
 }
 
 .home-section .home-intro h1 {
-  font-size: 70px;
-  font-weight: 600;
+  font-size: 40px;
+  font-weight: 800;
   color: var(--dark-color);
   margin: 0 0 35px;
   line-height: 1;
