@@ -11,7 +11,7 @@ $(window).on("scroll", function () {
 $(document).ready(function () {
   //Typed Effect
   new Typed("#type-it", {
-    strings: ["Web Developer", "Freelancer"],
+    strings: ["Desarrollador Web", "Freelancer"],
     typeSpeed: 80,
     loop: true,
   });
