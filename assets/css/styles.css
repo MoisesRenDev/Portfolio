@@ -202,6 +202,13 @@ a:hover {
 .bg-js {
   background-color: yellow;
 }
+.bg-django {
+  background-color: #189767;
+}
+
+.bg-boots {
+  background: #7611f6;
+}
 
 main {
   position: relative;
